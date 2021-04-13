@@ -1,4 +1,4 @@
-title = "oa.com - a don Federation Company"
+title = "Notre-Dame de Paris"
 baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ananke"
@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "oa.com is under construction"
+  description = "The last theme you'll ever need. Maybe."
   facebook = "https://facebook.com/donPabloNow"
   twitter = "https://twitter.com/donPabloNow"
   instagram = "https://instagram.com/donPabloNow"
