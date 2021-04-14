@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "oa.com - a don Federation Company"
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
 
